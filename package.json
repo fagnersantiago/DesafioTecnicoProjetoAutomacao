@@ -6,7 +6,7 @@
   "author": "<fagner.santiago@hotmail.com>",
   "license": "MIT",
   "scripts": {
-    "dev": "ts-node-dev --exit-child --transpile-only --ignore-watch node_modules src/server.ts"
+    "dev": "ts-node-dev --exit-child --transpile-only --ignore-watch node_modules src/index.ts"
   },
   "dependencies": {
     "@types/express": "^4.17.17",
