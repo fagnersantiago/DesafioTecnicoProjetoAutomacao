@@ -55,9 +55,9 @@ export class UserRepository {
   }
 
   async convertUser(user: User): Promise<ConvertedUser> {
-    const address = ""; // Implementar a lógica para buscar o endereço do usuário
-    const addressNumber = 0; // Implementar a lógica para buscar o número do endereço do usuário
-    const phoneNumber = ""; // Implementar a lógica para buscar o número de telefone do usuário
+    const address = "";
+    const addressNumber = 0;
+    const phoneNumber = "";
 
     const fullName = `${user.firstName} ${user.lastName}`;
 

@@ -20,7 +20,7 @@ const automationController = new AutomationController(automationUseCase);
 router.get("/execute-automation", (req, res) =>
   automationController.execute(req, res)
 );
-cron.schedule("*/20 * * * *", async () => {
+cron.schedule("*/5 * * * *", async () => {
   try {
     const response = await axios.get(
       "http://localhost:3333/execute-automation"

@@ -39,7 +39,7 @@ Antes de executar o projeto, verifique se você tem o seguinte instalado em seu 
 
 2. O servidor será iniciado e estará ouvindo na porta 3333.
 
-3. Abra um navegador ou uma ferramenta de cliente HTTP (como o Postman) e acesse a rota:
+3. Abra um navegador ou uma ferramenta de cliente HTTP (como o Postman) ou espere 5 minutos e o Cron fará requisição automáticamente através da rota abaixo::
 
    ```
    http://localhost:3333/execute-automation
