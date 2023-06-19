@@ -1,5 +1,3 @@
-Certamente! Aqui está um exemplo de arquivo README para o seu projeto Node.js com a rota "http://localhost:3333/execute-automation":
-
 # Projeto Node.js
 
 Este é um projeto Node.js que apresenta uma rota para executar uma automação.
@@ -31,7 +29,7 @@ Antes de executar o projeto, verifique se você tem o seguinte instalado em seu 
 
 ## Execução
 
-1. No terminal ou prompt de comando, execute o seguinte comando para iniciar o servidor:
+1. No terminal ou prompt de comando, execute o seguinte comando para iniciar:
 
    ```shell
    yarn dev
@@ -44,5 +42,3 @@ Antes de executar o projeto, verifique se você tem o seguinte instalado em seu 
    ```
    http://localhost:3333/execute-automation
    ```
-
-   Esta rota é responsável por executar a automação.
