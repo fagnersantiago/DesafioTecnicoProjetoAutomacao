@@ -1,4 +1,3 @@
-Certamente! Aqui está um exemplo de arquivo README para o seu projeto Node.js com a rota "http://localhost:3333/execute-automation":
 
 # Projeto Node.js
 
